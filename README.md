@@ -1,7 +1,13 @@
 ## Builds
+```
 Android: Stable build v1.0.1
+```
+```
 iOS: No build due to license
+```
+```
 Windows: Experimental build v1.0.1
+```
 
 ## Database
 Vuforia Target Manager accessed through [developer portal](https://developer.vuforia.com/)
